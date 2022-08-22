@@ -1,4 +1,4 @@
-# VaibhavKoshta_Lab4
+# DBMS and ORM SQL QUERY
 
 1.  This repository contains the sql queries for creating the tables such as supplier, customer, supplier_pricing, order, product etc. Each table is initialized with the variable defined as primary key and foreign key.
 2.  Queries for inserting the values into the table.
